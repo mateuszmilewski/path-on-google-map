@@ -2,4 +2,4 @@
 
 
 simple html with drawing stright lines on google map:
-https://mateuszmilewski.github.io/path-on-google-map/test.html
+https://mateuszmilewski.github.io/path-on-google-map/index.html
